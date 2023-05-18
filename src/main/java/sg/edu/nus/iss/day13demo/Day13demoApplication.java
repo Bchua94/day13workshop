@@ -4,7 +4,7 @@ import org.springframework.boot.DefaultApplicationArguments;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.List;
-import sg.edu.nus.iss.day13demo.utility.*;
+import sg.edu.nus.iss.day13demo.utility.Utility;
 
 @SpringBootApplication
 public class Day13demoApplication {
